@@ -29,7 +29,7 @@
 </p><br>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah6838&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Abdullah6838&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah6838&theme=w&hide_border=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah6838&show_icons=true&locale=en&layout=compact" alt="Abdullah6838" /></p>
+<p><img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah6838&theme="></p>
+
 
