@@ -29,7 +29,11 @@
 </p><br>
 
 ## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah6838&show_icons=true&locale=en&layout=compact" alt="Abdullah6838" /></p>
-<p><img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdullah6838&theme="></p>
+<div align="center">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullah6838&theme=github">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullah6838&theme=github">
+</div>
+
+
 
 
