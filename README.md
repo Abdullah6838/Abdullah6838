@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me  
 <p align="left">
 <a href="https://github.com/Abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdullah" height="30" width="40" /></a>
-<a href="https://www.facebook.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah" height="30" width="40" /></a>
 <a href="https://wa.me/923433706838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="30" width="40" /></a><br><br>
 
