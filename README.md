@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdullah6838&color=blue)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **python**.
 
 - 👨‍💻 All of my projects are available at https://github.com/Abdullah6838
 
