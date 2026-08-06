@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/Abdullah6838
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** and Python
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="abdullah" height="14" width="29" />LinkedIn</a>**
+- 📫 How to reach me **👉 <a href="https://www.linkedin.com/in/abdullah6838" target="_blank">LinkedIn</a>**
 
-- 📧 Email Me 👉 **abdullahshaikhs475@gmail.com** for Projects
+- 📧 Email Me for Projects
 <br><br>
 
 ## 🌐 Connect With Me  
@@ -20,9 +20,9 @@
 <a href="https://github.com/Abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abdullah" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah" height="30" width="40" /></a>
-<a href="https://wa.me/923433706838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="30" width="40" /></a><br><br>
+<!-- <a href="https://wa.me/923433706838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="30" width="40" /></a> -->
 
-
+<br><br>
 ## 🛠️ Languages and Tools  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,vscode,git,github,c,javascript,python" />
