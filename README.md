@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **<a href="https://wa.me/923433706838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abdullah" height="14" width="29" />Whatsapp</a>**
+- 📫 How to reach me **<a href="https://www.linkedin.com/in/abdullah6838" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="abdullah" height="14" width="29" />LinkedIn</a>**
 
 - 📧 Email Me 👉 **abdullahshaikhs475@gmail.com** for Projects
 <br><br>
